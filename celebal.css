@@ -1,0 +1,120 @@
+/* #H2{
+    justify-content:center;
+} */
+*{
+    margin:0;
+    padding: 0;
+}
+#master{
+heignt:55px;
+width:100%;
+/* background:url("background.jpg") no-repeat center; */
+align-items:center;
+}
+
+
+
+#banner{
+    width:100%;
+background:url("Rectangle 64.jpg") no-repeat center;
+align-items:center;
+
+}
+
+/* .third1{ 
+    /* border:10 red solid; */
+
+/* border-radius: 10px;
+height: 33px;
+width:30%;
+
+} */ 
+
+
+
+.para{
+    width:100%;
+    height:50%;
+    margin:3px;
+}
+/* #banner{
+    background: url("Rectangle 64.jpg") no-repeat center
+} */
+.under{
+    width:90%;
+    display: flex;
+    align-items:center
+}
+.under img{
+   
+    height: 55%;
+    width:100%}
+.third3{
+    margin:3px;
+    width: 33%;
+    height: 270px;
+    border-radius: 10px;
+    color: #000;
+   
+    border-radius: 20px;
+        box-shadow: 10px 10px 5px #888;
+
+}
+.third13{
+    margin:3px;
+    width: 30%;
+    height: 270px;
+    color: #000;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #888;
+}
+.sec1{
+    margin:3px;
+    width: 30%;
+    height: 270px;
+    color: #000;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #888;
+}
+
+
+.first1{
+    margin:3px;
+    width: 30%;
+    height: 270px;
+    color: #000;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #888;
+}   
+.third3{
+    margin:3px;
+    width: 30%;
+    height: 270px;
+    color: #000;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #888;
+}
+.sep{
+    color:#FB8500;
+    height: 100px;
+    
+}
+#head{
+   /* justify-content: center; */
+   align-items: center;
+   padding-top:0 ;
+}
+.blank{
+    height:30px;
+}
+.sep1{
+    height: 100px;
+    margin-bottom: 0px;
+   color:#219EBC ;
+   
+   
+}
+#logo{
+    height:30px;
+    width: 10px;
+}
